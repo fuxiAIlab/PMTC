@@ -1,0 +1,14 @@
+torch==1.4.0
+transformers==3.3.0
+numpy==1.19.4
+ipdb==0.12
+h5py==2.10.0
+tqdm==4.46.0
+pytorch_lightning==1.1.1
+pandas==0.24.1
+easydict==1.9
+scikit-learn==0.22
+dill==0.3.1.1
+textdistance==4.2.0
+compress_pickle==2.0.1
+captum==0.2.0
